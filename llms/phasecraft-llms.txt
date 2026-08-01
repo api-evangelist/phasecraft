@@ -1,0 +1,24 @@
+# Phasecraft
+
+> Phasecraft is a quantum algorithms company building software that combines classical and quantum computing to tackle real-world problems in materials discovery, advanced biochemistry, and optimization. Its algorithms are engineered to run efficiently across multiple quantum hardware platforms. Phasecraft publishes no public developer API; its programmatic surface is limited to open research code and two interactive web tools.
+
+## Company
+- [Phasecraft home](https://www.phasecraft.io/): Quantum algorithms for materials, biochemistry, and optimization.
+- [Research](https://www.phasecraft.io/research): Publications and technical results, including work on the Fermi-Hubbard model and QAOA.
+- [Team](https://www.phasecraft.io/team): Leadership includes Prof. Ashley Montanaro (CEO) and Prof. Toby Cubitt (CTO).
+- [Careers](https://www.phasecraft.io/careers): Open roles across London, Bristol, and Washington DC.
+
+## Products
+- [Materials Database](https://materials.phasecraft.io/): Interactive database of quantum-computed materials properties (web tool, no public API).
+- [Mondrian Optimization Graph Library](https://optimization.phasecraft.io/graph-library): Optimization graph benchmark library (web tool, no public API).
+
+## Code
+- [GitHub organization (@PhaseCraft)](https://github.com/phasecraft): Open research code — paper reproduction repositories (Fermi-Hubbard, QAOA k-SAT) and forks of quantum computing tooling (Cirq, OpenFermion, Yao.jl). Not client SDKs.
+
+## Legal
+- [Privacy Policy](https://www.phasecraft.io/privacy-policy)
+- [Terms of Use](https://www.phasecraft.io/terms-of-use)
+
+## Contact
+- General: hello@phasecraft.io
+- Press: press@phasecraft.io

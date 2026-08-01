@@ -1,8 +1,16 @@
 aid: phasecraft
 name: Phasecraft
-description: 'Phasecraft is a company surfaced as a portfolio company of playground-global and added to
-  the API Evangelist network as a stub for enrichment. Sector: compute. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  Phasecraft is a quantum algorithms company building software that combines
+  classical and quantum computing to solve real-world problems in materials
+  discovery, advanced biochemistry, and optimization. Its algorithms are
+  engineered to run efficiently across multiple quantum hardware platforms, and
+  its published results include scalable approaches to the Fermi-Hubbard model
+  and QAOA-based optimization. Founded by Profs. Ashley Montanaro (CEO) and Toby
+  Cubitt (CTO), the company operates from London, Bristol, and Washington DC, and
+  is backed by Playground Global. Phasecraft exposes no public developer API; its
+  programmatic surface is limited to open research code on GitHub and two
+  interactive web tools (a materials database and an optimization graph library).
 url: https://raw.githubusercontent.com/api-evangelist/phasecraft/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +18,29 @@ x-backed-by:
 - playground-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Compute
+- Quantum Computing
+- Quantum Algorithms
+- Materials Discovery
+- Optimization
+- Deep Tech
+image: https://framerusercontent.com/images/F3pzaH3tv1rtpJgI6FmHlMI7M.jpg
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,22 @@ maintainers:
 common:
 - type: Website
   url: https://www.phasecraft.io/
+- type: GitHubOrganization
+  url: https://github.com/phasecraft
+- type: Research
+  url: https://www.phasecraft.io/research
+- type: Support
+  url: https://www.phasecraft.io/contact
+- type: PrivacyPolicy
+  url: https://www.phasecraft.io/privacy-policy
+- type: TermsOfService
+  url: https://www.phasecraft.io/terms-of-use
+- type: DomainSecurity
+  url: security/phasecraft-domain-security.yml
+- type: LLMsTxt
+  url: llms/phasecraft-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
