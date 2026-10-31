@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Phasecraft is a company surfaced as a portfolio company of playground-global and added to the API Evangelist network as a stub for enrichment. Sector: compute. This profile is a lead awaiting the enrichment pipeline.
+Phasecraft is a quantum algorithms company building software that combines classical and quantum computing to solve real-world problems in materials discovery, advanced biochemistry, and optimization. Its algorithms are engineered to run efficiently across multiple quantum hardware platforms, and its published results include scalable approaches to the Fermi-Hubbard model and QAOA-based optimization. Founded by Profs. Ashley Montanaro (CEO) and Toby Cubitt (CTO), the company operates from London, Bristol, and Washington DC, and is backed by Playground Global. Phasecraft exposes no public developer API; its programmatic surface is limited to open research code on GitHub and two interactive web tools (a materials database and an optimization graph library).
 
-Backed by: playground-global — https://www.phasecraft.io/
+**Areas:** Company · Compute · Quantum Computing · Quantum Algorithms · Materials Discovery · Optimization · Deep Tech
+
+## Phasecraft on APIs.io
+
+Everything profiled for Phasecraft is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/phasecraft/](https://apis.io/providers/phasecraft/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Phasecraft Domain Security](https://apis.io/security/phasecraft/phasecraft-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.phasecraft.io/)
+- [Support](https://www.phasecraft.io/contact)
+- [Terms of service](https://www.phasecraft.io/terms-of-use)
+- [Privacy policy](https://www.phasecraft.io/privacy-policy)
+- [GitHub](https://github.com/phasecraft)
+
+## API Evangelist rating
+
+**Kin Score 10.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/phasecraft/](https://apis.io/providers/phasecraft/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Phasecraft: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/phasecraft/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
